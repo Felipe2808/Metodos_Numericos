@@ -1,6 +1,6 @@
 
 
-# REVISIÓN DE APUNTES (Versión apta para copiar y pegar)
+# REVISIÓN DE APUNTES 
 
 ## 1. `Argumentos.py` (Errores de Argumentos / TypeError o ValueError)
 
