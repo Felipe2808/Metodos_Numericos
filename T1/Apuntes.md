@@ -1,6 +1,4 @@
-Aquí tienes tu apunte en formato **Markdown**, completamente limpio de códigos LaTeX complejos, optimizado con notación matemática estándar en texto plano y listo para copiar, pegar y leer en cualquier editor (como Obsidian, Notion, VS Code, GitHub o blocs de notas) sin peligro de que se rompa el formato.
 
----
 
 # REVISIÓN DE APUNTES (Versión apta para copiar y pegar)
 
